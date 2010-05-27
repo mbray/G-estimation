@@ -1,10 +1,10 @@
 Package: gestimation
 Type: Package
-Title: What the package does (short line)
+Title: G-estimation of optimal dynamic treatment regimes
 Version: 1.0
 Date: 2010-05-17
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
+Author: Mathieu Bray
+Maintainer: Ben Rich <benjamin.rich@mail.mcgill.ca>
+Description: G-estimation of optimal dynamic regime structural nested mean models
 License: What license is it under?
 LazyLoad: yes
